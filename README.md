@@ -42,9 +42,7 @@ END
 ```
 ## OUTPUT(Ascending order)
 
-<img width="1520" height="900" alt="Screenshot 2025-10-24 203941" src="https://github.com/user-attachments/assets/15cd8b42-93cc-4660-8492-c2075b694c75" />
-
-
+<img width="450" height="450" alt="Screenshot 2025-11-07 183547" src="https://github.com/user-attachments/assets/7908c668-2336-4ca6-8269-ae13d52219f4" />
 
 ## Algorithm(Descending order)
 1. Initialize the register **R7** with count.  
@@ -80,8 +78,8 @@ DJNZ R1,LOOP1
 END
 ```
 ## OUTPUT(Descending order)
-<img width="1520" height="900" alt="Screenshot 2025-10-24 204457" src="https://github.com/user-attachments/assets/7e097d55-36b7-4d36-b5e7-73dd051ff80b" />
 
+<img width="450" height="450" alt="Screenshot 2025-11-07 183830" src="https://github.com/user-attachments/assets/c499cb6d-91e7-4bc3-90e3-51f11b8e6474" />
 
 
 ## RESULT:
